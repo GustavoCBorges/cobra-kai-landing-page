@@ -1,0 +1,21 @@
+.body {
+    display: flex;
+    flex-direction: column;
+}
+
+.menu,
+.header {
+    display: flex;
+}
+
+.cards {
+    display: flex;
+}
+
+.quote {
+    display: flex;
+}
+
+.cta {
+    display: flex;
+}
