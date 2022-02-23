@@ -100,6 +100,11 @@ button {
     color: black;
 }
 
+button:hover {
+    background-color: gold;
+    box-shadow: 0 8px 4px -2px rgba(0, 0, 0, 0.815);
+}
+
 #fest {
     width: 600px;
     border: 15px;
